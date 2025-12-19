@@ -1,2 +1,3 @@
-/.gradle/
+/aoc2023/.gradle
+/aoc2025/.mvn
 /.idea/
