@@ -8,7 +8,7 @@ My personal solutions and progress tracker for **Advent of Code**.
 
 | Year | Progress         | Language | Link |
 |------|------------------|----------|------|
-| **2025** | ✅ Day **3** / 12 | **Java** | https://adventofcode.com/2025 |
+| **2025** | ✅ Day **4** / 12 | **Java** | https://adventofcode.com/2025 |
 | **2023** | ✅ Day **6** / 25 | **Groovy** | https://adventofcode.com/2023 |
 
 ---
