@@ -4,7 +4,6 @@ import skyshineb.aoc.y2025.core.AoCDay;
 import skyshineb.aoc.y2025.core.Input;
 import skyshineb.aoc.y2025.core.ProblemSolver;
 
-import java.util.List;
 
 @AoCDay(day = 2, inputFile = "aoc/2025/day2.txt")
 public class Day2 implements ProblemSolver {
